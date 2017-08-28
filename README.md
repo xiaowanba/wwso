@@ -2,4 +2,4 @@
 [Design](https://xiaowanba.github.io/wwso/index-design.html)
  
 ## 开发导航
-[Code](https://xiaowanba.github.io/wwso/index-code.htmll)
+[Code](https://xiaowanba.github.io/wwso/index-code.html)
